@@ -1,0 +1,33 @@
+TODO
+
+##Fixa framerate cap
+
+##Mer Modulär lösning
+
+##Ordna så att options kan laddas från en config fil
+och se till så att inga options är const så de kan ändras under
+runtime
+
+##Gör media inladdning mer generell så att man kan ange specifikt
+vad som ska laddas
+
+##Implementera och testa lua för att kunna kalla funktioner under
+runtime. 
+
+##Dropdown konsoll för lua
+
+##Gör en simpel evenhandler så att man kan manipulera objekt
+med keyboardinput, (Xbox kontroll?)
+
+##Implementera en OpenGL renderer
+
+##################################################################
+
+Polymorphism! Abstraktion! Modullärt! Minimera Beroende!
+
+##################################################################
+
+DONE
+
+Implementation av Log
+Grund strukturen för Game

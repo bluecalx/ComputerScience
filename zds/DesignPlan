@@ -1,0 +1,50 @@
+##############################################################################################################
+Övergripande filosofi:
+Implementera allt fort och känn på det innan du lägger för mycket tid på det
+Bygg allting så stadigt som möjligt, så man får en stadig spelmotor där spelet kan utvecklas fritt
+Gör bra stöd för debugging, loggar etc. Implementera script tidigt så att man kan debugga saker enklare
+
+##############################################################################################################
+
+Implementera grunderna (ladda in filer, lägga till grafik etc.)
+--Bygg en log funktion som clearas vid start av varje körning och som sparar vad som skrivs i konsollen--
+Börja leka runt med input få någonting att röra sig på skärmen
+
+##############################################################################################################
+
+(fixa stöd för script? Lua?)
+Börja testa runt med game mechanics lista ut vad som känns bra och vad som inte gör det
+Gör en prototyp för combaten
+
+##############################################################################################################
+
+(starta om, utifall att designen blivit dum)
+
+Överväg hur grafiken ska hanteras (OpenGL? SDL?)
+Börja utveckla en editor för att kunna designa levels och placera npcs (Lägg till stöd för script i editorn?)
+Börja jobba fram en prototyp för hur spelet kan funktionera på mindre skala
+
+##############################################################################################################
+
+(Se om prototypen är kul, ha någon som testar. Börja om annars)
+
+Rekrytera andra som kan sköta grafik och musik samt eventuella script tillgångar
+
+##############################################################################################################
+
+Läslista
+C++ Primer, Effective och more effective C++
+Design Patterns
+(SDL?)
+OpenGL
+Lua
+
+##############################################################################################################
+
+Sublime-text
+Premake
+Makefiles
+g++
+egen editor
+
+##############################################################################################################

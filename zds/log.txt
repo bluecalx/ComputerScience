@@ -1,0 +1,9 @@
+--Log File, ZDS version 0.01--
+Game Initilization..
+Screen width and height set..
+SDL Initialized..
+Window created..
+Loaded surface to window..
+Successfully loaded image..
+Successfully loaded media..
+Game initialized!
